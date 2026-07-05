@@ -1,0 +1,28 @@
+{
+  "target_usd": 28.0,
+  "current_usd": 0.0,
+  "status": "pipeline_running",
+  "chains": {
+    "OBM_XCMG": {
+      "active": true,
+      "revenue_usd": 0.0,
+      "next_close": "quote_dm_ticket"
+    },
+    "OSINT_Palantir": {
+      "active": true,
+      "revenue_usd": 0.0,
+      "next_close": "telegram_signal_sale"
+    },
+    "RTK_OODA": {
+      "active": true,
+      "revenue_usd": 0.0,
+      "next_close": "trade_cycle"
+    },
+    "MetaMask": {
+      "active": true,
+      "revenue_usd": 0.0,
+      "next_close": "wallet_bridge"
+    }
+  },
+  "updated_at": "2026-07-05T01:04:05.428171Z"
+}
