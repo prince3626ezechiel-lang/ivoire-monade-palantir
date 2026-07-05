@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-07-05T01:58:14.235959Z",
+  "service": "Local AI Coding Agent + Memory Setup",
+  "inspired_by": "Claude Code 100% local / open-source local memory plugin trend",
+  "pricing": {
+    "setup_usd": 49,
+    "monthly_maintenance_usd": 9
+  },
+  "deliverables": [
+    "Local LLM runtime setup",
+    "Private memory layer config",
+    "Offline coding agent enablement",
+    "Runbook + support 7 days"
+  ]
+}
