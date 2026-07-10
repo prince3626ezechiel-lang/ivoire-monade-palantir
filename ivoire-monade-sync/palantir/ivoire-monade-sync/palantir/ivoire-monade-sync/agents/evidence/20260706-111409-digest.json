@@ -1,0 +1,13 @@
+{
+  "ts": "20260706-111409",
+  "job_id": "cron",
+  "type": "digest",
+  "payload": {
+    "job": "github-trading-research",
+    "scope": "Hermes/Claude/OBM open-source repos",
+    "mode": "web_search",
+    "ts": "2026-07-06T11:14:09Z"
+  },
+  "status": "ok",
+  "offline": true
+}

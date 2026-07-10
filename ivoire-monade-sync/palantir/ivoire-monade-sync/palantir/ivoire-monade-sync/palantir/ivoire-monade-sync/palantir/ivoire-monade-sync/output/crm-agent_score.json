@@ -1,0 +1,17 @@
+{
+  "action": "score_lead",
+  "result": {
+    "source": "ivoire-monade.shop",
+    "budget_eur": 45000,
+    "urgency": "urgent",
+    "company_type": "BTP CI",
+    "score": 70,
+    "score_reasons": [
+      "Medium budget",
+      "Urgent timeline",
+      "XCMG target industry"
+    ],
+    "tier": "B",
+    "llm_insight": "LLM_ERROR: module 'llm_client' has no attribute 'call_local_llm'"
+  }
+}

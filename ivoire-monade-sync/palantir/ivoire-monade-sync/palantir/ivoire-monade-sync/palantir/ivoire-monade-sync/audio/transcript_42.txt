@@ -1,0 +1,1 @@
+[TRANSCRIPTION_STUB] file_id=f1 duration=2s model=base

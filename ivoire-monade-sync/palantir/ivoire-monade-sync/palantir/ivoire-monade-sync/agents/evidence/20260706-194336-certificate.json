@@ -1,0 +1,19 @@
+{
+  "ts": "20260706-194336",
+  "job_id": "cron",
+  "type": "certificate",
+  "payload": {
+    "source": "github-trading-scan",
+    "count": 5,
+    "repos": [
+      "alsk1992/CloddsBot",
+      "mnemox-ai/tradememory-protocol",
+      "ginlix-ai/LangAlpha",
+      "whchien/ai-trader",
+      "ariadng/metatrader-mcp-server"
+    ],
+    "memo": "github-trading-scan"
+  },
+  "status": "ok",
+  "offline": true
+}

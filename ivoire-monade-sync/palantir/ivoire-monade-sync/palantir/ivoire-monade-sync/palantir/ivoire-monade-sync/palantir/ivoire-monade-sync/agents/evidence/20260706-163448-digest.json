@@ -1,0 +1,18 @@
+{
+  "ts": "20260706-163448",
+  "job_id": "trading-scan",
+  "type": "digest",
+  "payload": {
+    "run_id": "cron-github-trading-scan",
+    "phase": "pre-run",
+    "url": "github.com",
+    "queries": [
+      "trading",
+      "finance",
+      "mcp"
+    ],
+    "dedup_memo": "/root/.hermes/memos/scalp_autogen_github_trading.json"
+  },
+  "status": "ok",
+  "offline": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "blocked",
+  "video_id": "f5OWBYcJc9o",
+  "title": "Top 10 GitHub Repositories in June 2026",
+  "url": "https://youtu.be/f5OWBYcJc9o",
+  "reason": "yt-dlp extraction blocked: no-authentication-ready browser/cookie route available this cycle, and prior cycles showed bot challenge requiring cookie auth.",
+  "artifact": "/tmp/yt-probe-f5OWBYcJc9o.log",
+  "request_artifact": "/tmp/yt-json-f5OWBYcJc9o.log",
+  "action": "Provide cookiefile or --cookies-from-browser source on a future OODA cycle before extraction.",
+  "cycle": "CYCLE-2026-07-06-OODA-044"
+}

@@ -1,0 +1,37 @@
+{
+  "absorbed_at": "2026-07-05 02:15:00Z",
+  "source": "claude-office-skills/skills",
+  "destination": "/root/.hermes/skills",
+  "namespace": "obm-*",
+  "skills_copied": {
+    "obm-crm-automation": "b3c9f124b28b87d9",
+    "obm-lead-routing": "2c7c5678355c0a15",
+    "obm-invoice-automation": "e6da910350e6a359",
+    "obm-telegram-bot": "b2d5f70fd6be7db5",
+    "obm-whatsapp-automation": "a10dcdd9add94e72",
+    "obm-company-research": "0f4b989098768870",
+    "obm-competitive-analysis": "0147807fc659db91",
+    "obm-devops-automation": "513315a19d1ad650",
+    "obm-youtube-automation": "80f162a371b891d1"
+  },
+  "skills_ignored": [
+    "lead-qualification",
+    "lead-research",
+    "email-drafter",
+    "email-marketing",
+    "proposal-writer",
+    "report-generator",
+    "weekly-report",
+    "news-monitor",
+    "financial-modeling",
+    "saas-metrics",
+    "browser-automation",
+    "pdf-extraction",
+    "pdf-converter",
+    "docx-manipulation",
+    "xlsx-manipulation",
+    "transcription-automation",
+    "security-monitoring"
+  ],
+  "rules": "Do not import borderline/piracy skills. Polarize into obm-* namespace only."
+}

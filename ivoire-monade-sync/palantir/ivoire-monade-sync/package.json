@@ -1,0 +1,24 @@
+{
+  "name": "ivoire-monade-obm",
+  "version": "0.1.0",
+  "description": "IVOIRE MONADE OBM project automation: XCMG sales, proforma, invoices, support.",
+  "private": true,
+  "packageManager": "pnpm@9",
+  "scripts": {
+    "build": "echo \"No JS build yet\"; exit 0",
+    "lint": "echo \"Lint schemas + no plaintext secrets\"; exit 0",
+    "test": "echo \"Run schema validations + integration tests\"; exit 0",
+    "release": "echo \"Trigger Odoo / proforma release automation\"; exit 0",
+    "backup": "hermes cron run backup-ivoire-monade"
+  },
+  "engines": {
+    "hermes": ">=0.18.0"
+  },
+  "files": [
+    "schemas",
+    "docs",
+    "skills",
+    "cron",
+    "src"
+  ]
+}

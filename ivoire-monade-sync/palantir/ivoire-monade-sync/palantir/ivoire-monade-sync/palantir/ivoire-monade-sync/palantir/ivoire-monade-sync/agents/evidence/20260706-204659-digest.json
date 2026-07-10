@@ -1,0 +1,11 @@
+{
+  "ts": "20260706-204659",
+  "job_id": "github-trading-recon-1783370819",
+  "type": "digest",
+  "payload": {
+    "job": "github-trading-recon",
+    "run": "started"
+  },
+  "status": "ok",
+  "offline": true
+}

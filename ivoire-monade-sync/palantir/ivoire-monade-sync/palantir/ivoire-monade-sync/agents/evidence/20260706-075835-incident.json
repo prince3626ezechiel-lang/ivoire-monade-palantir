@@ -1,0 +1,12 @@
+{
+  "ts": "20260706-075835",
+  "job_id": "cron",
+  "type": "incident",
+  "payload": {
+    "job": "scalp-autogen",
+    "step": "trading-researcher",
+    "error": "Web search unavailable for GitHub discovery",
+    "detail": "FIRECRAWL_API_KEY missing or unpaid Nous Portal credits; web_search failed 3/3 attempts. No external GitHub topic or trending data fetched. Halting without fabricated repo list."
+  },
+  "status": "ok"
+}

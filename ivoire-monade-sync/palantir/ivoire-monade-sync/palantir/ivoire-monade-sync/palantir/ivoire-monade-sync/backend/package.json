@@ -1,0 +1,14 @@
+{
+  "name": "ivoire-monade-backend",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.21.0",
+    "http-proxy-middleware": "^4.1.1"
+  }
+}

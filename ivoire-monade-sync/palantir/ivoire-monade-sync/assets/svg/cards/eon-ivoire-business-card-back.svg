@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 400" width="160" height="400">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#C9963A"/>
+      <stop offset="50%" stop-color="#F1C40F"/>
+      <stop offset="100%" stop-color="#A17846"/>
+    </linearGradient>
+  </defs>
+  <!-- Dark green background card -->
+  <rect x="0" y="0" width="160" height="400" rx="8" fill="#166534"/>
+  <!-- Top emblem small -->
+  <g transform="translate(80,70)">
+    <circle r="22" fill="none" stroke="url(#goldGrad)" stroke-width="0.8"/>
+    <ellipse cx="0" cy="2" rx="10" ry="13" fill="url(#goldGrad)"/>
+    <circle cx="0" cy="-10" r="3.5" fill="#166534" stroke="url(#goldGrad)" stroke-width="0.8"/>
+    <text x="0" y="-9" font-family="Georgia, serif" font-size="7" fill="#F1C40F" text-anchor="middle" font-weight="bold">e</text>
+    <path d="M -6 -2 Q -3 -6 0 -2" fill="none" stroke="#1E293B" stroke-width="0.8"/>
+    <path d="M 0 -2 Q 3 -6 6 -2" fill="none" stroke="#1E293B" stroke-width="0.8"/>
+    <path d="M 0 -2 L -1 4 Q 0 5.5 1 4 Z" fill="#1E293B"/>
+  </g>
+  <!-- Brand text -->
+  <text x="80" y="105" font-family="Georgia, serif" font-size="15" fill="#F1C40F" text-anchor="middle" font-weight="bold" letter-spacing="1">EON IVOIRE</text>
+  <text x="80" y="120" font-family="Arial, sans-serif" font-size="7" fill="#F1C40F" text-anchor="middle" letter-spacing="1">Pour l'équilibre et l'harmonie</text>
+
+  <!-- Geometric bottom band -->
+  <rect x="0" y="360" width="160" height="40" fill="#1E293B"/>
+  <pattern id="geoBand2" x="0" y="360" width="16" height="16" patternUnits="userSpaceOnUse">
+    <path d="M0,8 L8,0 L16,8 L8,16 Z" fill="none" stroke="#F1C40F" stroke-width="0.8"/>
+  </pattern>
+  <rect x="0" y="360" width="160" height="40" fill="url(#geoBand2)"/>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "ts": "20260706-044930",
+  "job_id": "cron",
+  "type": "incident",
+  "payload": {
+    "job": "github-trading-scan",
+    "status": "failed",
+    "error": "Firecrawl indisponible et gh absent",
+    "details": "Pas de découverte GitHub en temps réel possible dans cette exécution."
+  },
+  "status": "ok"
+}

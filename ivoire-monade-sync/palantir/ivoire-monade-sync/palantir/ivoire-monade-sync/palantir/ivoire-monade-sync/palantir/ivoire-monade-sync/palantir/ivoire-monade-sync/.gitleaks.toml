@@ -1,0 +1,12 @@
+enable = true
+minConfidence = "medium"
+paths = ["/opt/ivoire-monade", "/root/.hermes"]
+rules = [
+  {id = "generic-api-key",path = "api[_-]?key|apikey|api_secret|api_secret"},
+  {id = "generic-secret",path = "secret|passwd|password|pass"},
+  {id = "generic-token",path = "token|bearer|authorization"},
+  {id = "generic-credentials",path = "credentials|credential"},
+  {id = "odoo-url",path = "odoo"},
+  {id = "database-url",path = "database[_-]?url|db[_-]?url|postgres"}
+]
+allowlist-commits = ["^Initial commit$"]

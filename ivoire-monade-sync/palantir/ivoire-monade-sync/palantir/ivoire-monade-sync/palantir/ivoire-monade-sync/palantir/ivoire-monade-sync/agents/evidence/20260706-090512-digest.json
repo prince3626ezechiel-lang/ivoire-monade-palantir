@@ -1,0 +1,11 @@
+{
+  "ts": "20260706-090512",
+  "job_id": "cron",
+  "type": "digest",
+  "payload": {
+    "job": "octopus-wolf-github-research",
+    "query": "Hermes Claude OBM trading open-source"
+  },
+  "status": "ok",
+  "offline": true
+}

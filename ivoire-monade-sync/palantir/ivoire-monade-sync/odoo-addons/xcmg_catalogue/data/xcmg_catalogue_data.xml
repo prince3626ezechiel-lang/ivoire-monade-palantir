@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="xcmg_line_demo_1" model="xcmg.catalogue.line">
+        <field name="name">XC9350</field>
+        <field name="category">Wheel Loader</field>
+        <field name="spec_json">{ "bucket": "3.5m3", "weight": "19t" }</field>
+        <field name="active">True</field>
+    </record>
+    <record id="xcmg_line_demo_2" model="xcmg.catalogue.line">
+        <field name="name">XE215C</field>
+        <field name="category">Excavator</field>
+        <field name="spec_json">{ "engine": "129kW", "weight": "21t" }</field>
+        <field name="active">True</field>
+    </record>
+</odoo>

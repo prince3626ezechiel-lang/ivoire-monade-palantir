@@ -1,0 +1,14 @@
+{
+  "ts": "20260706-152859",
+  "job_id": "cron",
+  "type": "certificate",
+  "payload": {
+    "event": "github-repo-scan-run",
+    "session": "gh-scan-202607061528",
+    "status": "success",
+    "new_items": 5,
+    "memo_file": "/root/.hermes/skills-evolution-cache/github-repo-scan.json"
+  },
+  "status": "ok",
+  "offline": true
+}

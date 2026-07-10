@@ -1,0 +1,25 @@
+{
+  "offline": true,
+  "sources": [
+    "SKILL.md",
+    "SKILL.md",
+    "SKILL.md",
+    "SKILL.md",
+    "SKILL.md",
+    "SKILL.md",
+    "SKILL.md",
+    "SKILL.md",
+    "SKILL.md",
+    "SKILL.md",
+    "SKILL.md",
+    "SKILL.md"
+  ],
+  "quickwins": [
+    "Run github-repo-scan from local mirrors only",
+    "Absorb registry pending candidates akquant, investing-algorithm-framework",
+    "Merge youtube signal skills into one pipeline skill"
+  ],
+  "errors": [
+    "RuntimeError: HTTP 401: Missing Authentication header"
+  ]
+}

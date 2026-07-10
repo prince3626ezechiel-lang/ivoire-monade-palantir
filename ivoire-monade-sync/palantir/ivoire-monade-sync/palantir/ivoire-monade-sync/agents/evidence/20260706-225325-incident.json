@@ -1,0 +1,11 @@
+{
+  "ts": "20260706-225325",
+  "job_id": "cron",
+  "type": "incident",
+  "payload": {
+    "job": "github-trading-scout",
+    "blocage": "web_search indisponible / aucun outil GitHub accessible (gh absent). Impossible de scanner les topics GitHub pour extraire les repos trading."
+  },
+  "status": "ok",
+  "offline": true
+}

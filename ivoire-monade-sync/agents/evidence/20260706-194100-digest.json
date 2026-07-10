@@ -1,0 +1,33 @@
+{
+  "ts": "20260706-194100",
+  "job_id": "cron",
+  "type": "digest",
+  "payload": {
+    "source": "github-trading-scan",
+    "reported_full_names": [
+      "freqtrade/freqtrade",
+      "Superalgos/Superalgos",
+      "tensortrade-org/tensortrade",
+      "Drakkar-Software/OctoBot",
+      "AlexWan/OsEngine",
+      "OpenGradient/BitQuant",
+      "Claw16z/claw16z-trading-agent",
+      "muye1202/VerumTrade",
+      "Meta-Oracle/Scematica",
+      "47thtechcorner/RayCodes_VibeTrading",
+      "naimkatiman/tradeclaw",
+      "fresh-afterdeck17/botstreet",
+      "jptsantossilva/BEC",
+      "arteemg/AutoHypothesis",
+      "VibeTradingLabs/vibetrading",
+      "mirror29/inalpha",
+      "PlaceNL2026/best-of-algorithmic-trading",
+      "tradingstrategy-ai/trading-strategy",
+      "ricequant/rqalpha",
+      "himanshu2406/Algo.Py",
+      "democra-ai/candy-shop"
+    ]
+  },
+  "status": "ok",
+  "offline": true
+}

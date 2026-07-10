@@ -1,0 +1,12 @@
+{
+  "ts": "20260706-121629",
+  "job_id": "cron",
+  "type": "incident",
+  "payload": {
+    "job": "github-trading-repos-scan",
+    "error": "web_search_unavailable",
+    "message": "Impossible de découvrir les repos depuis GitHub : les outils web ne sont pas configurés dans cet environnement. Utilisable uniquement avec FIRECRAWL_API_KEY / FIRECRAWL_API_URL ou crédits Nous Portal."
+  },
+  "status": "ok",
+  "offline": true
+}

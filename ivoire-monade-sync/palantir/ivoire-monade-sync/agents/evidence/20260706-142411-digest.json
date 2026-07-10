@@ -1,0 +1,13 @@
+{
+  "ts": "20260706-142411",
+  "job_id": "cron",
+  "type": "digest",
+  "payload": {
+    "event": "github-trading-repo-scan",
+    "session": "cron-gh-scan-20260706-09",
+    "query": "trading bot + Hermes + Claude + OBM open-source",
+    "memo_file": "/root/.hermes/skills-evolution-cache/github-repo-scan.json"
+  },
+  "status": "ok",
+  "offline": true
+}

@@ -1,0 +1,68 @@
+{
+  "candidate": {
+    "name": "Prince Ezéchiel",
+    "linkedin": "https://www.linkedin.com/in/prince-ezechiel-devops",
+    "target_roles": [
+      "Remote DevOps",
+      "Agentic OS Engineer",
+      "Open-Source Automation Specialist"
+    ],
+    "stack_highlights": [
+      "Hermes Agent",
+      "Ollama",
+      "Next.js 14",
+      "systemd / daemons",
+      "GPG-only secrets",
+      "8-second OODA loops",
+      "evidence-gated automation",
+      "Telegram/Next.js hardening"
+    ],
+    "languages": ["English", "French"],
+    "location": "Abidjan, CI",
+    "salary_range": "€750–€1,100/month"
+  },
+  "opportunities": [
+    {
+      "name": "TalentHackers",
+      "apply_url": "https://talenthackers.applytojob.com/apply",
+      "status": "ready_to_submit",
+      "payload": "/opt/ivoire-monade/inbox/talent-hackers-application.json"
+    },
+    {
+      "name": "Persona",
+      "apply_url": "https://www.personatalent.com/careers",
+      "canonical_url": "https://careers.personatalent.com/",
+      "status": "pending_harvest"
+    },
+    {
+      "name": "BYP Network",
+      "apply_url": "https://byp-network.com/jobs",
+      "status": "pending_harvest"
+    }
+  ],
+  "linkedin_drafts": {
+    "headline": "DevOps / Agentic OS Builder | Open-source automation, Hermes Agent, Next.js, Telegram hardening | Based in Abidjan, CI",
+    "about": "DevOps-focused builder shipping production-grade automation without .env, without plaintext secrets, without fluff.\n\nI design end-to-end digital workflows for African SMEs: quotes, alerts, video analysis, and cron-driven growth. My current stack is 100% open-source: Hermes Agent, Ollama, Next.js 14, systemd hardening, and evidence-gated automation with 8-second OODA loops.\n\nI care more about shipped artifacts than CV padding. If you need remote automation, API-first integrations, or hardened local services, let’s talk.",
+    "post_remote_search": "Je cherche des missions en remote.\n\nStack: Hermes Agent, Ollama, Next.js 14, systemd hardening, Telegram/API automation.\n\nDisponibilité: immediate / 2 weeks.\nLocalisation: Abidjan, CI.\n\nSi vous avez des postes ouverts, DM ouvoici mon profil: https://www.linkedin.com/in/prince-ezechiel-devops"
+  },
+  "verification": {
+    "checked_at": "2026-07-07T00:38:00Z",
+    "results": {
+      "talenthackers": {
+        "url": "https://talenthackers.applytojob.com/apply",
+        "http": 200
+      },
+      "persona": {
+        "url": "https://www.personatalent.com/careers",
+        "redirect": "https://careers.personatalent.com/",
+        "http": 200
+      },
+      "byp_network": {
+        "url": "https://byp-network.com/jobs",
+        "http": 404,
+        "root_http": 403
+      }
+    }
+  },
+  "updated_at": "2026-07-07T00:38:00Z"
+}
