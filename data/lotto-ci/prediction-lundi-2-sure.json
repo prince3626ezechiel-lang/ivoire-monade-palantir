@@ -1,0 +1,36 @@
+{
+  "day": "lundi",
+  "game": "lotto-bonheur-ivoirien",
+  "formula": "cross_category + terminaison_forte + frequency_weighted",
+  "2-sure": [
+    {
+      "number": "150",
+      "score": 15,
+      "cats": [
+        "lundi étoile N°532"
+      ],
+      "terminaison": "0"
+    },
+    {
+      "number": "273",
+      "score": 15,
+      "cats": [
+        "lundi étoile N°532"
+      ],
+      "terminaison": "3"
+    }
+  ],
+  "top_terminaisons": [
+    "8",
+    "9",
+    "6"
+  ],
+  "cross_cat_candidates": [
+    "846",
+    "629",
+    "96",
+    "788",
+    "88"
+  ],
+  "confidence": "moyenne"
+}
