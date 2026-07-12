@@ -1,20 +1,23 @@
-[
-  {
-    "prenom": "partenaire",
-    "segment": "xcmg_xc7",
-    "to": "",
-    "text": "Bonjour partenaire, je peux vous envoyer la fiche technique du XCMG XC7 et une comparaison coût vs location pour Abidjan."
-  },
-  {
-    "prenom": "partenaire",
-    "segment": "faw_ba",
-    "to": "",
-    "text": "Bonjour partenaire, est-ce que vous cherchez un camion benne FAW adapté aux routes de CI ?"
-  },
-  {
-    "prenom": "partenaire",
-    "segment": "generic",
-    "to": "",
-    "text": "Bonjour partenaire, on distribue XCMG et FAW pour PME BTP et transporteurs en CI. Je peux vous partager l'offre en PDF."
-  }
-]
+{"raw": "[", "type": "unparsed"}
+{"raw": "{", "type": "unparsed"}
+{"raw": "\"prenom\": \"partenaire\",", "type": "unparsed"}
+{"raw": "\"segment\": \"xcmg_xc7\",", "type": "unparsed"}
+{"raw": "\"to\": \"\",", "type": "unparsed"}
+{"raw": "\"text\": \"Bonjour partenaire, je peux vous envoyer la fiche technique du XCMG XC7 et une comparaison coût vs location pour Abidjan.\"", "type": "unparsed"}
+{"raw": "},", "type": "unparsed"}
+{"raw": "{", "type": "unparsed"}
+{"raw": "\"prenom\": \"partenaire\",", "type": "unparsed"}
+{"raw": "\"segment\": \"faw_ba\",", "type": "unparsed"}
+{"raw": "\"to\": \"\",", "type": "unparsed"}
+{"raw": "\"text\": \"Bonjour partenaire, est-ce que vous cherchez un camion benne FAW adapté aux routes de CI ?\"", "type": "unparsed"}
+{"raw": "},", "type": "unparsed"}
+{"raw": "{", "type": "unparsed"}
+{"raw": "\"prenom\": \"partenaire\",", "type": "unparsed"}
+{"raw": "\"segment\": \"generic\",", "type": "unparsed"}
+{"raw": "\"to\": \"\",", "type": "unparsed"}
+{"raw": "\"text\": \"Bonjour partenaire, on distribue XCMG et FAW pour PME BTP et transporteurs en CI. Je peux vous partager l'offre en PDF.\"", "type": "unparsed"}
+{"raw": "}", "type": "unparsed"}
+{"raw": "]", "type": "unparsed"}
+{"id": "lead_local_001", "source": "landing", "channel": "whatsapp", "first_name": "partenaire", "last_name": "", "company_name": null, "email": null, "phone_whatsapp": "+225", "country": "CI", "city": "Abidjan", "interest": ["pelle hydraulique", "chargeuse", "pièces détachées", "Gold Service"], "budget": "200k-500k USD", "currency": "USD", "expected_qty": null, "timeline": "2-4 semaines", "stage": "nouveau", "score": 65, "owner": "prince3626ezechiel", "tags": ["BTP", "Abidjan", "chantier", "location possible", "xcmg_xc7", ""], "notes": "Lead local sans site LinkedIn assigné. recherche publique LinkedIn via scraper si activé", "created_at": "2026-07-12T05:01:48.459903Z", "updated_at": "2026-07-12T05:01:48.459903Z", "outreach_status": "pending", "sequence": "obm-2026-phase1"}
+{"id": "lead_local_002", "source": "landing", "channel": "whatsapp", "first_name": "partenaire", "last_name": "", "company_name": null, "email": null, "phone_whatsapp": "+225", "country": "CI", "city": "Abidjan", "interest": ["camion benne", "transport", "logistique", "robustesse routes"], "budget": "80k-180k USD", "currency": "USD", "expected_qty": null, "timeline": "1-3 semaines", "stage": "nouveau", "score": 65, "owner": "prince3626ezechiel", "tags": ["transport", "Abidjan", "benne", "FAW", "faw_ba", "whatsapp_optin"], "notes": "Lead local sans site LinkedIn assigné. recherche publique LinkedIn via scraper si activé", "created_at": "2026-07-12T05:01:48.459903Z", "updated_at": "2026-07-12T05:01:48.459903Z", "outreach_status": "pending", "sequence": "obm-2026-phase1"}
+{"id": "lead_local_003", "source": "landing", "channel": "whatsapp", "first_name": "partenaire", "last_name": "", "company_name": null, "email": null, "phone_whatsapp": "+225", "country": "CI", "city": "Abidjan", "interest": ["XCMG XC7", "FAW BA", "BTP", "transport"], "budget": "variable", "currency": "USD", "expected_qty": null, "timeline": "1-4 semaines", "stage": "nouveau", "score": 65, "owner": "prince3626ezechiel", "tags": ["PME", "CI", "distributeur", "generic", "landing"], "notes": "Lead local sans site LinkedIn assigné. recherche publique LinkedIn via scraper si activé", "created_at": "2026-07-12T05:01:48.459903Z", "updated_at": "2026-07-12T05:01:48.459903Z", "outreach_status": "pending", "sequence": "obm-2026-phase1"}
