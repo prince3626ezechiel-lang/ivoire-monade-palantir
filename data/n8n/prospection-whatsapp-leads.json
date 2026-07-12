@@ -1,0 +1,40 @@
+{
+  "name": "prospection-whatsapp-leads",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "trigger",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "position": [100, 100]
+    },
+    {
+      "parameters": {
+        "jsCode": "const fs = require('fs');\nconst path = '/root/obm-ci-suite/data/leads_linkedin_ci.jsonl';\nconst leads = fs.readFileSync(path, 'utf8').split('\\n').filter(l => l.trim()).map(l => JSON.parse(l));\nreturn leads.map(l => ({json: {phone: l.phone_whatsapp, message: `Bonjour ${l.first_name}, nous distribuons ${l.interest[0]} adapté à vos besoins. Budget: ${l.budget}. Intéressé ?`}}));"
+      },
+      "id": "lead_parser",
+      "name": "Parse Leads",
+      "type": "n8n-nodes-base.code",
+      "position": [300, 100]
+    },
+    {
+      "parameters": {
+        "operation": "sendMessage",
+        "chatId": "={{ $json.phone }}",
+        "text": "={{ $json.message }}"
+      },
+      "id": "whatsapp_send",
+      "name": "Send WhatsApp",
+      "type": "n8n-nodes-base.whatsapp",
+      "position": [500, 100]
+    }
+  ],
+  "connections": {
+    "Webhook Trigger": {
+      "main": [["Parse Leads"]]
+    },
+    "Parse Leads": {
+      "main": [["Send WhatsApp"]]
+    }
+  }
+}
