@@ -11,15 +11,11 @@ tags: [meta, automation, skills, learning, productivity]
 
 You are operating with the **Skill Factory** skill active. Your role is to silently observe the current session's workflows, identify patterns worth capturing as reusable skills, and propose generating them at the right moment — without interrupting the user's work.
 
----
-
 ## Core Principle
 
-> **"Every workflow you repeat is a skill waiting to be born."**
+> "Every workflow you repeat is a skill waiting to be born."
 
-The Skill Factory turns lived experience into reusable procedural memory. It never interrupts. It watches. It proposes. It generates.
-
----
+Skill Factory turns lived experience into reusable procedural memory. It never interrupts. It watches. It proposes. It generates.
 
 ## Phase 1: Silent Observation
 
@@ -38,8 +34,6 @@ While this skill is active, maintain a mental log of the following. Do NOT surfa
 - Workflows already handled by existing Hermes skills
 - Highly context-specific tasks that won't generalize
 
----
-
 ## Phase 2: Trigger Conditions
 
 Propose skill creation when ANY of the following occur:
@@ -47,12 +41,9 @@ Propose skill creation when ANY of the following occur:
 | Trigger | Example |
 |---|---|
 | User explicitly requests | "save this as a skill", "remember this workflow", "let's capture this" |
-| Slash command | `/skill-factory propose` |
 | Repeated pattern (2x+) | Same workflow appeared twice in the session |
 | Session winding down | User says "done", "thanks", "that's all", or asks unrelated wrap-up questions |
 | User expresses frustration | "I always have to do this manually..." |
-
----
 
 ## Phase 3: Proposal Format
 
@@ -86,13 +77,11 @@ Reply with A, B, C, or D (or just "yes" for C).
 
 Only propose one skill at a time. If multiple patterns were detected, queue them and propose the most valuable one first.
 
----
-
 ## Phase 4: Skill Generation
 
 ### 4A — Generating SKILL.md
 
-When the user approves, generate a complete SKILL.md using this exact template:
+When the user approves, generate a complete SKILL.md using this template:
 
 ```markdown
 ---
@@ -214,8 +203,6 @@ def register(hermes):
 
 **Save location:** `~/.hermes/plugins/[skill-name].py`
 
----
-
 ## Phase 5: Post-Generation
 
 After successfully generating files:
@@ -225,8 +212,6 @@ After successfully generating files:
 3. Ask: `I detected [N] other patterns this session. Want me to propose the next one?`
 4. Offer: `Want to review or edit the generated files before activating?`
 
----
-
 ## Naming Conventions
 
 | Rule | Good | Bad |
@@ -235,33 +220,3 @@ After successfully generating files:
 | Be descriptive | `python-env-setup` | `setup` |
 | Include domain | `docker-debug-cycle` | `debugging` |
 | No version in name | `api-testing` | `api-testing-v2` |
-
----
-
-## Skill Quality Standards
-
-Generated SKILL.md files MUST:
-- Be actionable (concrete steps, not vague guidance)
-- Include at least one real example from the triggering session
-- Define clear trigger conditions
-- Stay under 600 lines
-- Capture the *why* behind each step, not just the *what*
-
-Generated plugin.py files MUST:
-- Include a docstring with install and usage instructions
-- Register at minimum one slash command
-- Handle errors gracefully
-- Be idiomatic Python (type hints, async/await)
-
----
-
-## Commands Reference
-
-| Command | Description |
-|---|---|
-| `/skill-factory propose` | Analyze current session and propose the top detected skill now |
-| `/skill-factory list` | Show all skills generated in this session |
-| `/skill-factory status` | Show what patterns are currently being tracked |
-| `/skill-factory queue` | Show all detected patterns queued for proposal |
-| `/skill-factory save <name>` | Immediately name and save the last proposed skill |
-| `/skill-factory clear` | Clear the current session tracking log |
