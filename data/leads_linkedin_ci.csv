@@ -1,0 +1,4 @@
+id,source,segment,city,interest,budget,stage,score,tags,notes
+lead_local_001,landing,BTP,Abidjan,chantier,location possible,xcmg_xc7,Abidjan,pelle hydraulique;chargeuse;pièces détachées;Gold Service,200k-500k USD,nouveau,65,BTP;Abidjan;chantier;location possible;xcmg_xc7;,"Lead local sans site LinkedIn assigné. recherche publique LinkedIn via scraper si activé"
+lead_local_002,landing,transport,Abidjan,benne,FAW,faw_ba,whatsapp_optin,Abidjan,camion benne;transport;logistique;robustesse routes,80k-180k USD,nouveau,65,transport;Abidjan;benne;FAW;faw_ba;whatsapp_optin,"Lead local sans site LinkedIn assigné. recherche publique LinkedIn via scraper si activé"
+lead_local_003,landing,PME,CI,distributeur,generic,landing,Abidjan,XCMG XC7;FAW BA;BTP;transport,variable,nouveau,65,PME;CI;distributeur;generic;landing,"Lead local sans site LinkedIn assigné. recherche publique LinkedIn via scraper si activé"
