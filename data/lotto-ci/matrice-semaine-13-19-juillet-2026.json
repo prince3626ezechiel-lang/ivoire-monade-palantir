@@ -1,0 +1,241 @@
+{
+  "periode": "2026-07-13 au 2026-07-19",
+  "game": "lotto-bonheur-ivoirien",
+  "total_categories": 20,
+  "categories": [
+    {
+      "source": "img_f276988538bf.jpg",
+      "category": "Mardi émergence N°533",
+      "numbers": [
+        281,
+        131,
+        106,
+        749
+      ],
+      "code": null,
+      "event": null
+    },
+    {
+      "source": "img_f276988538bf.jpg",
+      "category": "Clavier",
+      "numbers": [
+        783,
+        439,
+        732,
+        449
+      ],
+      "code": 13,
+      "event": 788
+    },
+    {
+      "source": "img_f276988538bf.jpg",
+      "category": "Matinale N°412",
+      "numbers": [
+        557,
+        476,
+        309,
+        109
+      ],
+      "code": 188,
+      "event": 88
+    },
+    {
+      "source": "img_f276988538bf.jpg",
+      "category": "Sika N°393",
+      "numbers": [
+        778,
+        634,
+        261,
+        283
+      ],
+      "code": 198,
+      "event": 18
+    },
+    {
+      "source": "img_3c69d3855106.jpg",
+      "category": "Réveil N°412",
+      "numbers": [
+        908,
+        881,
+        107,
+        736
+      ],
+      "code": 632,
+      "event": 96
+    },
+    {
+      "source": "img_3c69d3855106.jpg",
+      "category": "Akwaba N°393",
+      "numbers": [
+        768,
+        149,
+        693,
+        125
+      ],
+      "code": 515,
+      "event": 21
+    },
+    {
+      "source": "img_3c69d3855106.jpg",
+      "category": "AFTERWORK N°134",
+      "numbers": [
+        826,
+        315,
+        173,
+        807
+      ],
+      "code": 305,
+      "event": 76
+    },
+    {
+      "source": "img_3c69d3855106.jpg",
+      "category": "Mardi émergence N°533 (partiel)",
+      "numbers": [
+        281,
+        131,
+        106
+      ],
+      "code": null,
+      "event": null
+    },
+    {
+      "source": "img_117b84b0b817.jpg",
+      "category": "AFTERWORK N°135",
+      "numbers": [
+        458,
+        766,
+        254,
+        837
+      ],
+      "code": 170,
+      "event": 38
+    },
+    {
+      "source": "img_117b84b0b817.jpg",
+      "category": "Mercredi fortune N°941",
+      "numbers": [
+        733,
+        558,
+        884,
+        161
+      ],
+      "code": null,
+      "event": null
+    },
+    {
+      "source": "img_117b84b0b817.jpg",
+      "category": "Clavier (mercredi)",
+      "numbers": [
+        326,
+        754,
+        117,
+        631
+      ],
+      "code": 332,
+      "event": 56
+    },
+    {
+      "source": "img_117b84b0b817.jpg",
+      "category": "Première heure N°412",
+      "numbers": [],
+      "code": null,
+      "event": null
+    },
+    {
+      "source": "img_e29a108f2bac.jpg",
+      "category": "Kado N°411",
+      "numbers": [
+        824,
+        588,
+        697,
+        776
+      ],
+      "code": 446,
+      "event": 75
+    },
+    {
+      "source": "img_e29a108f2bac.jpg",
+      "category": "Monni N°393",
+      "numbers": [
+        228,
+        160,
+        335,
+        826
+      ],
+      "code": 634,
+      "event": 64
+    },
+    {
+      "source": "img_e29a108f2bac.jpg",
+      "category": "AFTERWORK N°137",
+      "numbers": [
+        308,
+        514,
+        261,
+        884
+      ],
+      "code": 601,
+      "event": 7
+    },
+    {
+      "source": "img_e29a108f2bac.jpg",
+      "category": "Vendredi solution N°533",
+      "numbers": [
+        808,
+        130,
+        352,
+        539
+      ],
+      "code": null,
+      "event": null
+    },
+    {
+      "source": "img_047b08035703.jpg",
+      "category": "AFTERWORK N°138",
+      "numbers": [
+        782,
+        209,
+        403,
+        619
+      ],
+      "code": 851,
+      "event": 55
+    },
+    {
+      "source": "img_047b08035703.jpg",
+      "category": "Samedi Diamant N°942",
+      "numbers": [
+        178,
+        337,
+        317,
+        230
+      ],
+      "code": null,
+      "event": null
+    },
+    {
+      "source": "img_047b08035703.jpg",
+      "category": "Clavier (samedi)",
+      "numbers": [
+        576,
+        539,
+        401,
+        370
+      ],
+      "code": 587,
+      "event": 36
+    },
+    {
+      "source": "img_047b08035703.jpg",
+      "category": "Soutra N°413",
+      "numbers": [
+        204,
+        817,
+        523,
+        258
+      ],
+      "code": 245,
+      "event": null
+    }
+  ]
+}
