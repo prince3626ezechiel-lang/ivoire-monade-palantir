@@ -1,0 +1,153 @@
+{
+  "ci": {
+    "total_numbers": 44,
+    "unique_numbers": 42,
+    "top_terminaisons": [
+      [
+        "8",
+        8
+      ],
+      [
+        "4",
+        7
+      ],
+      [
+        "7",
+        6
+      ],
+      [
+        "6",
+        5
+      ],
+      [
+        "1",
+        4
+      ]
+    ],
+    "top_pairs": [
+      {
+        "pair": [
+          "458",
+          "766"
+        ],
+        "count": 1
+      },
+      {
+        "pair": [
+          "458",
+          "254"
+        ],
+        "count": 1
+      },
+      {
+        "pair": [
+          "766",
+          "254"
+        ],
+        "count": 1
+      },
+      {
+        "pair": [
+          "766",
+          "837"
+        ],
+        "count": 1
+      },
+      {
+        "pair": [
+          "254",
+          "837"
+        ],
+        "count": 1
+      }
+    ],
+    "most_frequent": [
+      "884",
+      "539",
+      "458",
+      "766",
+      "254"
+    ],
+    "categories_count": 11
+  },
+  "ghana": {
+    "total_numbers": 20,
+    "unique_numbers": 7,
+    "top_terminaisons": [
+      [
+        "0",
+        5
+      ],
+      [
+        "2",
+        4
+      ],
+      [
+        "6",
+        3
+      ],
+      [
+        "1",
+        3
+      ],
+      [
+        "8",
+        3
+      ]
+    ],
+    "top_pairs": [
+      {
+        "pair": [
+          "2",
+          "0"
+        ],
+        "count": 3
+      },
+      {
+        "pair": [
+          "0",
+          "6"
+        ],
+        "count": 3
+      },
+      {
+        "pair": [
+          "6",
+          "1"
+        ],
+        "count": 3
+      },
+      {
+        "pair": [
+          "1",
+          "0"
+        ],
+        "count": 3
+      },
+      {
+        "pair": [
+          "4",
+          "2"
+        ],
+        "count": 2
+      }
+    ],
+    "pyramid_structure": [
+      1,
+      2,
+      4,
+      6,
+      7
+    ],
+    "bankers": [
+      "75",
+      "23",
+      "20"
+    ]
+  },
+  "similarite": {
+    "terminaisons_communes": [],
+    "structural_differences": "CI utilise format 4 numéros par catégorie, Ghana utilise pyramide",
+    "strategic_value": "Ghana apporte méthode pyramidale + banker system, CI apporte diversité catégorielle"
+  }
+}
