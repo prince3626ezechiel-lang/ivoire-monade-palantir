@@ -1,0 +1,32 @@
+# ShelfAgent — Configuration Template
+#
+# Copy this file to config.yaml and customize for your setup.
+# The shelfagent.py script reads the DB path from the SHELFAGENT_DB
+# environment variable, or uses the default ~/sailing/cambusa/cambusa.db.
+
+# Path to the SQLite database
+db_path: ~/sailing/cambusa/cambusa.db
+
+# Path to the Python script
+script_path: ~/sailing/cambusa/cambusa.py
+
+# Custom categories (the 6 defaults are in schema.sql)
+# To add more, INSERT into categories:
+# sqlite3 shelfagent.db "INSERT INTO categories (name, description) VALUES ('medicine', 'First aid and medications')"
+
+# Locations (examples — created automatically when you add a product with --loc)
+# No need to pre-configure. Just use --loc "Garage Shelf 2" when adding products.
+
+# Minimum stock thresholds (set via add --min N or direct SQLite)
+# Examples:
+#   sqlite3 shelfagent.db "UPDATE products SET min_stock = 2 WHERE name LIKE '%milk%'"
+#   sqlite3 shelfagent.db "UPDATE products SET min_stock = 1 WHERE name LIKE '%oil%'"
+
+# Backup
+# To back up: copy the .db file (single file)
+# To export JSON: python3 shelfagent.py export > backup.json
+# To restore: sqlite3 shelfagent.db < schema.sql && import backup.json
+
+# Integration with Hermes Agent
+# The shelfagent skill auto-loads when the user says "inventory", "stock",
+# "I used X", "I bought X", etc. See SKILL.md for the full interaction map.
