@@ -1,0 +1,70 @@
+{
+  "game": "lotto-bonheur-ivoirien",
+  "date": "2026-07-13 (lundi)",
+  "draws": {
+    "8h": {
+      "numbers": [
+        "273",
+        "441",
+        "768",
+        "46"
+      ],
+      "scores": [
+        21,
+        20,
+        19,
+        20
+      ],
+      "confidence_pct": 59,
+      "formula": "cross_category + terminaison_forte + hour_bonus + frequency"
+    },
+    "12h": {
+      "numbers": [
+        "908",
+        "736",
+        "768",
+        "449"
+      ],
+      "scores": [
+        21,
+        21,
+        19,
+        19
+      ],
+      "confidence_pct": 59,
+      "formula": "cross_category + terminaison_forte + hour_bonus + frequency"
+    },
+    "14h": {
+      "numbers": [
+        "149",
+        "768",
+        "476",
+        "198"
+      ],
+      "scores": [
+        22,
+        21,
+        19,
+        18
+      ],
+      "confidence_pct": 58,
+      "formula": "cross_category + terminaison_forte + hour_bonus + frequency"
+    }
+  },
+  "global_signals": {
+    "top_terminaisons": [
+      "8",
+      "9",
+      "6"
+    ],
+    "cross_cat_numbers": [],
+    "most_frequent": [
+      "273",
+      "441",
+      "150",
+      "140",
+      "846"
+    ]
+  },
+  "disclaimer": "Ces prédictions sont générées par un modèle statistique expérimental. Aucune garantie de gain. La probabilité réelle est déterminée par le tirage officiel."
+}
