@@ -1,0 +1,20 @@
+[
+  {
+    "prenom": "partenaire",
+    "segment": "xcmg_xc7",
+    "to": "",
+    "text": "Bonjour partenaire, je peux vous envoyer la fiche technique du XCMG XC7 et une comparaison coût vs location pour Abidjan."
+  },
+  {
+    "prenom": "partenaire",
+    "segment": "faw_ba",
+    "to": "",
+    "text": "Bonjour partenaire, est-ce que vous cherchez un camion benne FAW adapté aux routes de CI ?"
+  },
+  {
+    "prenom": "partenaire",
+    "segment": "generic",
+    "to": "",
+    "text": "Bonjour partenaire, on distribue XCMG et FAW pour PME BTP et transporteurs en CI. Je peux vous partager l'offre en PDF."
+  }
+]
