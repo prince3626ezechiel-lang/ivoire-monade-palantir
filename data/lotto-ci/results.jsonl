@@ -1,19 +1,13 @@
-{"week_matrix": "Matrice de semaine côte d'Ivoire du 13 au 19 juillet 2026"}
-{"category": "lundi étoile N°532", "numbers": ["273", "441", "150", "140"], "codes": [], "events": []}
-{"category": "Clavier", "numbers": ["846", "629", "542", "407"], "codes": [], "events": []}
-{"category": "Event", "numbers": ["834"], "codes": [], "events": []}
-{"category": "Code", "numbers": ["46"], "codes": [], "events": []}
-{"category": "Réveil N°412", "numbers": ["908", "881", "107", "736"], "codes": [], "events": []}
-{"category": "Code", "numbers": ["632"], "codes": [], "events": []}
-{"category": "Event", "numbers": ["96"], "codes": [], "events": []}
-{"category": "Akwaba N°393", "numbers": ["768", "149", "693", "125"], "codes": [], "events": []}
-{"category": "Mardi émergence N°533", "numbers": ["281", "131", "106", "749"], "codes": [], "events": []}
-{"category": "Mardi émergence N°533 suite", "numbers": ["783", "439", "732", "449"], "codes": [], "events": []}
-{"category": "Event", "numbers": ["788"], "codes": [], "events": []}
-{"category": "Code", "numbers": ["13"], "codes": [], "events": []}
-{"category": "Matinale N°412", "numbers": ["557", "476", "309", "109"], "codes": [], "events": []}
-{"category": "Code", "numbers": ["188"], "codes": [], "events": []}
-{"category": "Event", "numbers": ["88"], "codes": [], "events": []}
-{"category": "Sika N°393", "numbers": ["778", "634", "261", "283"], "codes": [], "events": []}
-{"category": "Code", "numbers": ["198"], "codes": [], "events": []}
-{"category": "Event", "numbers": ["18"], "codes": [], "events": []}
+{"source": "img_deef9dd2f36c.jpg", "game": "lotto-bonheur-ci", "category": "AFTERWORK N°135", "numbers": [458, 766, 254, 837], "codes": ["170"], "events": ["38"]}
+{"source": "img_deef9dd2f36c.jpg", "game": "lotto-bonheur-ci", "category": "Mercredi fortune N°941", "numbers": [733, 558, 884, 161], "codes": [], "events": []}
+{"source": "img_deef9dd2f36c.jpg", "game": "lotto-bonheur-ci", "category": "Clavier", "numbers": [326, 754, 117, 631], "codes": ["332"], "events": ["56"]}
+{"source": "img_deef9dd2f36c.jpg", "game": "lotto-bonheur-ci", "category": "Première heure N°412", "numbers": [], "codes": [], "events": []}
+{"source": "img_aad313cbdb8d.jpg", "game": "lotto-bonheur-ci", "category": "Kado N°411", "numbers": [824, 588, 697, 776], "codes": ["446"], "events": ["75"]}
+{"source": "img_aad313cbdb8d.jpg", "game": "lotto-bonheur-ci", "category": "Monni N°393", "numbers": [228, 160, 335, 826], "codes": ["634"], "events": ["64"]}
+{"source": "img_aad313cbdb8d.jpg", "game": "lotto-bonheur-ci", "category": "AFTERWORK N°137", "numbers": [308, 514, 261, 884], "codes": ["601"], "events": ["7"]}
+{"source": "img_aad313cbdb8d.jpg", "game": "lotto-bonheur-ci", "category": "Vendredi solution N°533", "numbers": [808, 130, 352, 539], "codes": [], "events": []}
+{"source": "img_609052b7d2eb.jpg", "game": "lotto-bonheur-ci", "category": "AFTERWORK N°138", "numbers": [782, 209, 403, 619], "codes": ["851"], "events": ["55"]}
+{"source": "img_609052b7d2eb.jpg", "game": "lotto-bonheur-ci", "category": "Samedi Diamant N°942", "numbers": [178, 337, 317, 230], "codes": [], "events": []}
+{"source": "img_609052b7d2eb.jpg", "game": "lotto-bonheur-ci", "category": "Clavier", "numbers": [576, 539, 401, 370], "codes": ["587"], "events": ["36"]}
+{"source": "img_609052b7d2eb.jpg", "game": "lotto-bonheur-ci", "category": "Soutra N°413", "numbers": [204, 817, 523, 258], "codes": ["245"], "events": []}
+{"source": "img_ddf5bfcea819.jpg", "type": "channel_prediction", "game": "lotto-bonheur-ivoirien", "category": "CROIX GÉNÉRALE DU LUNDI", "date": "2026-07-13", "terminaison": "3", "code": "6-3", "pyramid": [4, 7, 9, 5, 2, 1, 8, 0], "pyramid_rows": [2, 2, 1, 2], "bankers": ["BK 39", "Bk 38"], "numbers_from_pyramid": [4, 7, 9, 5, 2, 1, 8, 0], "timestamp": "05:50"}
