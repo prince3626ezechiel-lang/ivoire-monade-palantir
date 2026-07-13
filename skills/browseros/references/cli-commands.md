@@ -163,3 +163,4 @@ npm install -g browseros-cli
 # Or run directly without installing
 npx browseros-cli --help
 ```
+
