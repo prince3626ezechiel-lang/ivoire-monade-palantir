@@ -1,0 +1,50 @@
+{
+  "game": "lotto-bonheur-ivoirien",
+  "date": "2026-07-13 (lundi)",
+  "draw_window": "12h-16h",
+  "win": [
+    {
+      "number": "539",
+      "score": 30,
+      "probability_pct": 78,
+      "terminaison": "9",
+      "cross_category": true
+    },
+    {
+      "number": "281",
+      "score": 28,
+      "probability_pct": 75,
+      "terminaison": "1",
+      "cross_category": true
+    },
+    {
+      "number": "261",
+      "score": 28,
+      "probability_pct": 75,
+      "terminaison": "1",
+      "cross_category": true
+    }
+  ],
+  "mac": [
+    {
+      "number": "281",
+      "score": 19,
+      "probability_pct": 78,
+      "terminaison": "1"
+    },
+    {
+      "number": "261",
+      "score": 19,
+      "probability_pct": 78,
+      "terminaison": "1"
+    },
+    {
+      "number": "131",
+      "score": 19,
+      "probability_pct": 78,
+      "terminaison": "1"
+    }
+  ],
+  "method": "matrice_semaine + real_results_weighted",
+  "disclaimer": "Probabilités calculées sur données observées seulement, sans garantie"
+}
