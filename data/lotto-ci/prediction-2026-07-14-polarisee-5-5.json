@@ -1,0 +1,103 @@
+{
+  "game": "lotto-bonheur-ivoirien",
+  "date": "2026-07-14 (mardi)",
+  "range": "1-90 ONLY",
+  "draw_window": "12h-16h",
+  "method": "polarized: frequency + chi2 + cross_cat + terminaison + MAC + Event",
+  "model_version": "v2.1-extended-5-5",
+  "training_data": {
+    "total_draws_analyzed": 16,
+    "real_draws_ingested": 2,
+    "mac_signals": 20,
+    "categories": 20
+  },
+  "win": [
+    {
+      "number": 60,
+      "score": 79.03,
+      "probability_pct": 78,
+      "terminaison": "0",
+      "chi2_contrib": 18.68,
+      "cross_category": false,
+      "mac_signal": false,
+      "frequency": 2
+    },
+    {
+      "number": 24,
+      "score": 28.41,
+      "probability_pct": 53,
+      "terminaison": "4",
+      "chi2_contrib": 3.8,
+      "cross_category": false,
+      "mac_signal": true,
+      "frequency": 1
+    },
+    {
+      "number": 58,
+      "score": 28.41,
+      "probability_pct": 53,
+      "terminaison": "8",
+      "chi2_contrib": 3.8,
+      "cross_category": false,
+      "mac_signal": true,
+      "frequency": 1
+    },
+    {
+      "number": 68,
+      "score": 28.41,
+      "probability_pct": 53,
+      "terminaison": "8",
+      "chi2_contrib": 3.8,
+      "cross_category": false,
+      "mac_signal": true,
+      "frequency": 1
+    },
+    {
+      "number": 69,
+      "score": 25.41,
+      "probability_pct": 52,
+      "terminaison": "9",
+      "chi2_contrib": 3.8,
+      "cross_category": false,
+      "mac_signal": true,
+      "frequency": 1
+    }
+  ],
+  "mac": [
+    {
+      "number": 60,
+      "score": 25,
+      "probability_pct": 78,
+      "mac_signal": false,
+      "frequency": 2
+    },
+    {
+      "number": 24,
+      "score": 22,
+      "probability_pct": 73,
+      "mac_signal": true,
+      "frequency": 1
+    },
+    {
+      "number": 58,
+      "score": 22,
+      "probability_pct": 73,
+      "mac_signal": true,
+      "frequency": 1
+    },
+    {
+      "number": 68,
+      "score": 22,
+      "probability_pct": 73,
+      "mac_signal": true,
+      "frequency": 1
+    },
+    {
+      "number": 69,
+      "score": 19,
+      "probability_pct": 68,
+      "mac_signal": true,
+      "frequency": 1
+    }
+  ]
+}
