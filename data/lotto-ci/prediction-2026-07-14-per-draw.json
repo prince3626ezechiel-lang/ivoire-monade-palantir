@@ -1,0 +1,1256 @@
+{
+  "Digital Reveil 7h": {
+    "draw_name": "Digital Reveil 7h",
+    "win": [
+      {
+        "number": 22,
+        "score": 106.55,
+        "win_freq": 3,
+        "mac": 2
+      },
+      {
+        "number": 60,
+        "score": 90.78,
+        "win_freq": 2,
+        "mac": 2
+      },
+      {
+        "number": 70,
+        "score": 90.78,
+        "win_freq": 2,
+        "mac": 2
+      },
+      {
+        "number": 41,
+        "score": 89.55,
+        "win_freq": 3,
+        "mac": 1
+      },
+      {
+        "number": 26,
+        "score": 84.78,
+        "win_freq": 2,
+        "mac": 2
+      }
+    ],
+    "mac": [
+      {
+        "number": 34,
+        "mac_freq": 4
+      },
+      {
+        "number": 47,
+        "mac_freq": 3
+      },
+      {
+        "number": 2,
+        "mac_freq": 2
+      },
+      {
+        "number": 10,
+        "mac_freq": 2
+      },
+      {
+        "number": 22,
+        "mac_freq": 2
+      }
+    ]
+  },
+  "Digital Reveil 8h": {
+    "draw_name": "Digital Reveil 8h",
+    "win": [
+      {
+        "number": 9,
+        "score": 90.78,
+        "win_freq": 2,
+        "mac": 2
+      },
+      {
+        "number": 19,
+        "score": 85.78,
+        "win_freq": 2,
+        "mac": 1
+      },
+      {
+        "number": 89,
+        "score": 84.32,
+        "win_freq": 1,
+        "mac": 4
+      },
+      {
+        "number": 79,
+        "score": 80.78,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 38,
+        "score": 78.78,
+        "win_freq": 2,
+        "mac": 2
+      }
+    ],
+    "mac": [
+      {
+        "number": 89,
+        "mac_freq": 4
+      },
+      {
+        "number": 4,
+        "mac_freq": 3
+      },
+      {
+        "number": 10,
+        "mac_freq": 3
+      },
+      {
+        "number": 27,
+        "mac_freq": 3
+      },
+      {
+        "number": 87,
+        "mac_freq": 3
+      }
+    ]
+  },
+  "Reveil": {
+    "draw_name": "Reveil",
+    "win": [
+      {
+        "number": 19,
+        "score": 104.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 59,
+        "score": 104.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 58,
+        "score": 95.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 68,
+        "score": 95.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 87,
+        "score": 95.5,
+        "win_freq": 2,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 13,
+        "mac_freq": 2
+      },
+      {
+        "number": 47,
+        "mac_freq": 2
+      },
+      {
+        "number": 63,
+        "mac_freq": 2
+      },
+      {
+        "number": 69,
+        "mac_freq": 2
+      },
+      {
+        "number": 71,
+        "mac_freq": 2
+      }
+    ]
+  },
+  "Etoile": {
+    "draw_name": "Etoile",
+    "win": [
+      {
+        "number": 21,
+        "score": 104.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 35,
+        "score": 95.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 12,
+        "score": 92.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 32,
+        "score": 92.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 60,
+        "score": 89.5,
+        "win_freq": 2,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 1,
+        "mac_freq": 3
+      },
+      {
+        "number": 18,
+        "mac_freq": 2
+      },
+      {
+        "number": 31,
+        "mac_freq": 2
+      },
+      {
+        "number": 58,
+        "mac_freq": 2
+      },
+      {
+        "number": 75,
+        "mac_freq": 2
+      }
+    ]
+  },
+  "Akwaba": {
+    "draw_name": "Akwaba",
+    "win": [
+      {
+        "number": 59,
+        "score": 101.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 79,
+        "score": 101.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 45,
+        "score": 95.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 61,
+        "score": 95.5,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 33,
+        "score": 89.5,
+        "win_freq": 2,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 20,
+        "mac_freq": 2
+      },
+      {
+        "number": 50,
+        "mac_freq": 2
+      },
+      {
+        "number": 60,
+        "mac_freq": 2
+      },
+      {
+        "number": 68,
+        "mac_freq": 2
+      },
+      {
+        "number": 75,
+        "mac_freq": 2
+      }
+    ]
+  },
+  "Afterwork": {
+    "draw_name": "Afterwork",
+    "win": [
+      {
+        "number": 7,
+        "score": 119.55,
+        "win_freq": 3,
+        "mac": 1
+      },
+      {
+        "number": 18,
+        "score": 104.55,
+        "win_freq": 3,
+        "mac": 1
+      },
+      {
+        "number": 78,
+        "score": 104.55,
+        "win_freq": 3,
+        "mac": 1
+      },
+      {
+        "number": 3,
+        "score": 103.55,
+        "win_freq": 3,
+        "mac": 2
+      },
+      {
+        "number": 54,
+        "score": 99.55,
+        "win_freq": 3,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 14,
+        "mac_freq": 4
+      },
+      {
+        "number": 77,
+        "mac_freq": 4
+      },
+      {
+        "number": 15,
+        "mac_freq": 3
+      },
+      {
+        "number": 67,
+        "mac_freq": 3
+      },
+      {
+        "number": 82,
+        "mac_freq": 3
+      }
+    ]
+  },
+  "Monday Special": {
+    "draw_name": "Monday Special",
+    "win": [
+      {
+        "number": 6,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 44,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 67,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 73,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 81,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 1,
+        "mac_freq": 0
+      },
+      {
+        "number": 2,
+        "mac_freq": 0
+      },
+      {
+        "number": 3,
+        "mac_freq": 0
+      },
+      {
+        "number": 4,
+        "mac_freq": 0
+      },
+      {
+        "number": 5,
+        "mac_freq": 0
+      }
+    ]
+  },
+  "Lucky Tuesday": {
+    "draw_name": "Lucky Tuesday",
+    "win": [
+      {
+        "number": 15,
+        "score": 64.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 85,
+        "score": 64.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 21,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 32,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 58,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 1,
+        "mac_freq": 0
+      },
+      {
+        "number": 2,
+        "mac_freq": 0
+      },
+      {
+        "number": 3,
+        "mac_freq": 0
+      },
+      {
+        "number": 4,
+        "mac_freq": 0
+      },
+      {
+        "number": 5,
+        "mac_freq": 0
+      }
+    ]
+  },
+  "Midweek": {
+    "draw_name": "Midweek",
+    "win": [
+      {
+        "number": 12,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 22,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 52,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 16,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 56,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 1,
+        "mac_freq": 0
+      },
+      {
+        "number": 2,
+        "mac_freq": 0
+      },
+      {
+        "number": 3,
+        "mac_freq": 0
+      },
+      {
+        "number": 4,
+        "mac_freq": 0
+      },
+      {
+        "number": 5,
+        "mac_freq": 0
+      }
+    ]
+  },
+  "Kado": {
+    "draw_name": "Kado",
+    "win": [
+      {
+        "number": 25,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 38,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 76,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 86,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 44,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 5,
+        "mac_freq": 1
+      },
+      {
+        "number": 16,
+        "mac_freq": 1
+      },
+      {
+        "number": 30,
+        "mac_freq": 1
+      },
+      {
+        "number": 43,
+        "mac_freq": 1
+      },
+      {
+        "number": 45,
+        "mac_freq": 1
+      }
+    ]
+  },
+  "Monni": {
+    "draw_name": "Monni",
+    "win": [
+      {
+        "number": 26,
+        "score": 125.33,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 60,
+        "score": 45.33,
+        "win_freq": 1,
+        "mac": 1
+      },
+      {
+        "number": 43,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 53,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 63,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 58,
+        "mac_freq": 2
+      },
+      {
+        "number": 8,
+        "mac_freq": 1
+      },
+      {
+        "number": 9,
+        "mac_freq": 1
+      },
+      {
+        "number": 22,
+        "mac_freq": 1
+      },
+      {
+        "number": 30,
+        "mac_freq": 1
+      }
+    ]
+  },
+  "Soutra": {
+    "draw_name": "Soutra",
+    "win": [
+      {
+        "number": 48,
+        "score": 48.33,
+        "win_freq": 1,
+        "mac": 1
+      },
+      {
+        "number": 24,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 44,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 54,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 58,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 2,
+        "mac_freq": 1
+      },
+      {
+        "number": 17,
+        "mac_freq": 1
+      },
+      {
+        "number": 20,
+        "mac_freq": 1
+      },
+      {
+        "number": 32,
+        "mac_freq": 1
+      },
+      {
+        "number": 40,
+        "mac_freq": 1
+      }
+    ]
+  },
+  "Diamant": {
+    "draw_name": "Diamant",
+    "win": [
+      {
+        "number": 4,
+        "score": 122.33,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 21,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 52,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 57,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 48,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 3,
+        "mac_freq": 1
+      },
+      {
+        "number": 12,
+        "mac_freq": 1
+      },
+      {
+        "number": 16,
+        "mac_freq": 1
+      },
+      {
+        "number": 17,
+        "mac_freq": 1
+      },
+      {
+        "number": 31,
+        "mac_freq": 1
+      }
+    ]
+  },
+  "National": {
+    "draw_name": "National",
+    "win": [
+      {
+        "number": 6,
+        "score": 122.33,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 5,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 28,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 45,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 48,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 1,
+        "mac_freq": 0
+      },
+      {
+        "number": 2,
+        "mac_freq": 0
+      },
+      {
+        "number": 3,
+        "mac_freq": 0
+      },
+      {
+        "number": 4,
+        "mac_freq": 0
+      },
+      {
+        "number": 5,
+        "mac_freq": 0
+      }
+    ]
+  },
+  "Sika": {
+    "draw_name": "Sika",
+    "win": [
+      {
+        "number": 51,
+        "score": 64.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 81,
+        "score": 64.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 19,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 80,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 83,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 12,
+        "mac_freq": 1
+      },
+      {
+        "number": 26,
+        "mac_freq": 1
+      },
+      {
+        "number": 34,
+        "mac_freq": 1
+      },
+      {
+        "number": 77,
+        "mac_freq": 1
+      },
+      {
+        "number": 86,
+        "mac_freq": 1
+      }
+    ]
+  },
+  "Baraka": {
+    "draw_name": "Baraka",
+    "win": [
+      {
+        "number": 30,
+        "score": 46.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 40,
+        "score": 46.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 14,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 34,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 8,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 16,
+        "mac_freq": 1
+      },
+      {
+        "number": 20,
+        "mac_freq": 1
+      },
+      {
+        "number": 24,
+        "mac_freq": 1
+      },
+      {
+        "number": 37,
+        "mac_freq": 1
+      },
+      {
+        "number": 45,
+        "mac_freq": 1
+      }
+    ]
+  },
+  "Fortune": {
+    "draw_name": "Fortune",
+    "win": [
+      {
+        "number": 67,
+        "score": 122.33,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 11,
+        "score": 54.33,
+        "win_freq": 1,
+        "mac": 1
+      },
+      {
+        "number": 21,
+        "score": 49.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 61,
+        "score": 49.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 71,
+        "score": 49.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 35,
+        "mac_freq": 2
+      },
+      {
+        "number": 11,
+        "mac_freq": 1
+      },
+      {
+        "number": 41,
+        "mac_freq": 1
+      },
+      {
+        "number": 58,
+        "mac_freq": 1
+      },
+      {
+        "number": 73,
+        "mac_freq": 1
+      }
+    ]
+  },
+  "Fortune Thursday": {
+    "draw_name": "Fortune Thursday",
+    "win": [
+      {
+        "number": 9,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 19,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 43,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 63,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 68,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 1,
+        "mac_freq": 0
+      },
+      {
+        "number": 2,
+        "mac_freq": 0
+      },
+      {
+        "number": 3,
+        "mac_freq": 0
+      },
+      {
+        "number": 4,
+        "mac_freq": 0
+      },
+      {
+        "number": 5,
+        "mac_freq": 0
+      }
+    ]
+  },
+  "Friday Bonanza": {
+    "draw_name": "Friday Bonanza",
+    "win": [
+      {
+        "number": 22,
+        "score": 64.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 30,
+        "score": 64.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 40,
+        "score": 64.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 72,
+        "score": 64.17,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 65,
+        "score": 61.17,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 1,
+        "mac_freq": 0
+      },
+      {
+        "number": 2,
+        "mac_freq": 0
+      },
+      {
+        "number": 3,
+        "mac_freq": 0
+      },
+      {
+        "number": 4,
+        "mac_freq": 0
+      },
+      {
+        "number": 5,
+        "mac_freq": 0
+      }
+    ]
+  },
+  "Benediction": {
+    "draw_name": "Benediction",
+    "win": [
+      {
+        "number": 3,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 43,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 26,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 28,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 40,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 8,
+        "mac_freq": 1
+      },
+      {
+        "number": 10,
+        "mac_freq": 1
+      },
+      {
+        "number": 21,
+        "mac_freq": 1
+      },
+      {
+        "number": 23,
+        "mac_freq": 1
+      },
+      {
+        "number": 34,
+        "mac_freq": 1
+      }
+    ]
+  },
+  "Espoir": {
+    "draw_name": "Espoir",
+    "win": [
+      {
+        "number": 4,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 11,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 24,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 34,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 44,
+        "score": 43.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 51,
+        "mac_freq": 2
+      },
+      {
+        "number": 7,
+        "mac_freq": 1
+      },
+      {
+        "number": 12,
+        "mac_freq": 1
+      },
+      {
+        "number": 18,
+        "mac_freq": 1
+      },
+      {
+        "number": 23,
+        "mac_freq": 1
+      }
+    ]
+  },
+  "Premiere Heure": {
+    "draw_name": "Premiere Heure",
+    "win": [
+      {
+        "number": 43,
+        "score": 131.33,
+        "win_freq": 2,
+        "mac": 0
+      },
+      {
+        "number": 6,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 16,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 34,
+        "score": 40.33,
+        "win_freq": 1,
+        "mac": 0
+      },
+      {
+        "number": 2,
+        "score": 37.33,
+        "win_freq": 1,
+        "mac": 0
+      }
+    ],
+    "mac": [
+      {
+        "number": 11,
+        "mac_freq": 2
+      },
+      {
+        "number": 13,
+        "mac_freq": 1
+      },
+      {
+        "number": 26,
+        "mac_freq": 1
+      },
+      {
+        "number": 27,
+        "mac_freq": 1
+      },
+      {
+        "number": 53,
+        "mac_freq": 1
+      }
+    ]
+  }
+}
