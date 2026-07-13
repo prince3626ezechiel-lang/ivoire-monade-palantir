@@ -1,0 +1,234 @@
+{
+  "date": "2026-07-14",
+  "method": "polarised-trained-13-07-v2",
+  "total_draws_used": 147,
+  "trained_on": "13/07/2026 real results (Etoile, Akwaba, Afterwork, Reveil 10H)",
+  "lines": 5,
+  "predictions": [
+    {
+      "line": 1,
+      "numbers": [
+        {
+          "number": 81,
+          "score": 633.59,
+          "chi2": 2.53,
+          "mac_signal": true,
+          "win_freq": 12,
+          "cross_category": 3
+        },
+        {
+          "number": 21,
+          "score": 627.45,
+          "chi2": 3.82,
+          "mac_signal": true,
+          "win_freq": 13,
+          "cross_category": 3
+        },
+        {
+          "number": 41,
+          "score": 627.45,
+          "chi2": 3.82,
+          "mac_signal": true,
+          "win_freq": 13,
+          "cross_category": 3
+        },
+        {
+          "number": 78,
+          "score": 608.59,
+          "chi2": 2.53,
+          "mac_signal": true,
+          "win_freq": 12,
+          "cross_category": 3
+        },
+        {
+          "number": 68,
+          "score": 603.59,
+          "chi2": 2.53,
+          "mac_signal": true,
+          "win_freq": 12,
+          "cross_category": 3
+        }
+      ]
+    },
+    {
+      "line": 2,
+      "numbers": [
+        {
+          "number": 90,
+          "score": 595.15,
+          "chi2": 0.05,
+          "mac_signal": true,
+          "win_freq": 7,
+          "cross_category": 3
+        },
+        {
+          "number": 60,
+          "score": 595.06,
+          "chi2": 0.02,
+          "mac_signal": true,
+          "win_freq": 8,
+          "cross_category": 3
+        },
+        {
+          "number": 30,
+          "score": 588.76,
+          "chi2": 0.25,
+          "mac_signal": true,
+          "win_freq": 9,
+          "cross_category": 4
+        },
+        {
+          "number": 48,
+          "score": 588.25,
+          "chi2": 0.75,
+          "mac_signal": true,
+          "win_freq": 10,
+          "cross_category": 3
+        },
+        {
+          "number": 70,
+          "score": 587.76,
+          "chi2": 0.25,
+          "mac_signal": true,
+          "win_freq": 9,
+          "cross_category": 2
+        }
+      ]
+    },
+    {
+      "line": 3,
+      "numbers": [
+        {
+          "number": 44,
+          "score": 580.45,
+          "chi2": 3.82,
+          "mac_signal": true,
+          "win_freq": 13,
+          "cross_category": 3
+        },
+        {
+          "number": 18,
+          "score": 580.25,
+          "chi2": 0.75,
+          "mac_signal": true,
+          "win_freq": 10,
+          "cross_category": 2
+        },
+        {
+          "number": 51,
+          "score": 576.06,
+          "chi2": 0.02,
+          "mac_signal": true,
+          "win_freq": 8,
+          "cross_category": 3
+        },
+        {
+          "number": 58,
+          "score": 573.25,
+          "chi2": 0.75,
+          "mac_signal": true,
+          "win_freq": 10,
+          "cross_category": 3
+        },
+        {
+          "number": 6,
+          "score": 572.09,
+          "chi2": 5.36,
+          "mac_signal": true,
+          "win_freq": 14,
+          "cross_category": 3
+        }
+      ]
+    },
+    {
+      "line": 4,
+      "numbers": [
+        {
+          "number": 86,
+          "score": 571.45,
+          "chi2": 3.82,
+          "mac_signal": true,
+          "win_freq": 13,
+          "cross_category": 1
+        },
+        {
+          "number": 11,
+          "score": 569.15,
+          "chi2": 0.05,
+          "mac_signal": true,
+          "win_freq": 7,
+          "cross_category": 4
+        },
+        {
+          "number": 38,
+          "score": 566.06,
+          "chi2": 0.02,
+          "mac_signal": true,
+          "win_freq": 8,
+          "cross_category": 3
+        },
+        {
+          "number": 71,
+          "score": 566.06,
+          "chi2": 0.02,
+          "mac_signal": true,
+          "win_freq": 8,
+          "cross_category": 3
+        },
+        {
+          "number": 19,
+          "score": 565.45,
+          "chi2": 3.82,
+          "mac_signal": true,
+          "win_freq": 13,
+          "cross_category": 3
+        }
+      ]
+    },
+    {
+      "line": 5,
+      "numbers": [
+        {
+          "number": 40,
+          "score": 563.06,
+          "chi2": 0.02,
+          "mac_signal": true,
+          "win_freq": 8,
+          "cross_category": 4
+        },
+        {
+          "number": 10,
+          "score": 562.15,
+          "chi2": 0.05,
+          "mac_signal": true,
+          "win_freq": 7,
+          "cross_category": 2
+        },
+        {
+          "number": 14,
+          "score": 561.25,
+          "chi2": 0.75,
+          "mac_signal": true,
+          "win_freq": 10,
+          "cross_category": 3
+        },
+        {
+          "number": 77,
+          "score": 560.25,
+          "chi2": 0.75,
+          "mac_signal": true,
+          "win_freq": 10,
+          "cross_category": 1
+        },
+        {
+          "number": 31,
+          "score": 557.41,
+          "chi2": 4.14,
+          "mac_signal": true,
+          "win_freq": 2,
+          "cross_category": 1
+        }
+      ]
+    }
+  ]
+}
